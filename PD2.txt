@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>PDII</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Parbaudes darbs II</h1>
+        <h2>CSS UN HTML</h2>
+    </header>
+    <nav>
+        <a href="https://soundcloud.com/discover">Home</a>
+        <a href="https://soundcloud.com/discover">Gallery</a>
+        <a href="https://soundcloud.com/discover">About</a>
+        <a href=https://soundcloud.com/discover"">Contact</a>
+    </nav>
+
+    <div id="main-container">
+
+        <div id="side-content">
+            <p>dadsdqdqdqdqdsqddqdqdqdqdwqdqqdwqqdqdq</p>
+        </div>
+        <div id="photo-container">
+            <div>
+            <img src="https://media.4-paws.org/f/8/0/5/f8055215b5cdc5dee5494c255ca891d7b7d33cd1/Molly_006-2829x1886-2726x1886.jpg">
+            <p>cat</p>
+            </div>
+            <div>
+
+ <div>
+            <img src="https://media.4-paws.org/f/8/0/5/f8055215b5cdc5dee5494c255ca891d7b7d33cd1/Molly_006-2829x1886-2726x1886.jpg">
+            <p>cat</p>
+            </div>
+            <div>
+ <div>
+            <img src="https://media.4-paws.org/f/8/0/5/f8055215b5cdc5dee5494c255ca891d7b7d33cd1/Molly_006-2829x1886-2726x1886.jpg">
+            <p>cat</p>
+            </div>
+            <div>
+ <div>
+            <img src="https://media.4-paws.org/f/8/0/5/f8055215b5cdc5dee5494c255ca891d7b7d33cd1/Molly_006-2829x1886-2726x1886.jpg">
+            <p>cat</p>
+            </div>
+            <div>
+
+            
+        </div>
+        <div id="side-content">
+            <p>abaafafasffafasfasfasfasfsaf</p>
+    </div>
+
+</body>
+</html>
