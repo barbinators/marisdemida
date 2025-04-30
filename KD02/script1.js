@@ -17,14 +17,14 @@ function calculate() {
         result = operand1 * operand2;
     } else if (operator === "/") {
         if (operand2 === 0) {
-            document.getElementById("result").innerText = "Dalīšana ar nulli nav iespējama!";
+            document.getElementById("result").innerText = "dalīšana ar nulli nav iespējama!";
             return;
         }
         result = operand1 / operand2;
     } else {
-        document.getElementById("result").innerText = "Nepareizs operators!";
+        document.getElementById("result").innerText = "nepareizs operators!";
         return;
     }
 
-    document.getElementById("result").innerText = "Rezultāts: " + result;
+    document.getElementById("result").innerText = "rezultāts: " + result;
 }

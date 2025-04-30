@@ -1,4 +1,4 @@
-let vards = "Janis";  
+let vards = "Slaviks";  
 let vecums = 20;      
 let irPilsonis = true; 
 
